@@ -4,4 +4,4 @@ Further there is some visualisation and interpretation done using odds ratio exp
 The odds ratio values for all categorical variable types with respect to a reference type can be found in `mushroom_explanations.csv`. If a categorical feature has possible values red, blue, green, the value that is first in the alphabetically sorted list of these values, which is green in this case, will be taken as reference and odds ratio will be shown for the other values with respect to green. <br>
 The raw dataset used for the entire exercise is `mushrooms.xlsx`. <br>
 I will add comments to the notebook sometime in the future, although there is not much to understand.<br>
-An unrelated blog post I wrote that this inspired can be found [here]().
+An unrelated blog post I wrote that this inspired can be found [here](https://the-web-crawler-blog.herokuapp.com/post/7/).
